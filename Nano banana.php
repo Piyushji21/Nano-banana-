@@ -1,5 +1,5 @@
 <?php
-define('DarkAI', 'token_here'); // Token
+define('DarkAI', '8476699783:AAEaJDsDyXSLtYG95Wa2sW5eWd6x748ZgvE'); // Token
 define('NanoBanana', 'https://sii3.moayman.top/api/nano-banana.php'); // API
 define('love', 'https://sii3.moayman.top/DarkAI.jpg'); // iMae Test (Test)
 define('sTicker', 'CAACAgIAAxkBAAIMcmjDndyMvCb2OBQhIGobGVZU4f6JAAK0IwACmEspSN65vs0qW-TZNgQ'); // sTicker
